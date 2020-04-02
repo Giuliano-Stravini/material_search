@@ -1,5 +1,7 @@
 # material_search
 
+Fork to work in flutter dev channel(1.16.4)
+
 Implements part of the material search pattern with flutter widgets.
 https://material.io/guidelines/patterns/search.html
 
